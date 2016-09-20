@@ -38,23 +38,14 @@ you get the idea?
 #Good!  
 ##now memorize that shit!
 
+check out this tool http://www.conjugation.org/
 
 
 
 
-com*o*	com*es*	com*e*	com*emos*	com*en*
 
 
-# -er verbs
-*comer* = to eat   "com"=root "er" = ending
 
-#-ar verb endings: 
-yo-"habl (root) + o = hablo
-tu-*verb root* + as = hablas
-el/ella/usted + a = habla  
-nosotros/habl+amos  
-ellos/ellas /  + an
-##for example: *i speak*  
 
-yo hablo
-hablo...hablas. habla...hablamos...
+
+
