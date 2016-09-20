@@ -31,6 +31,17 @@ e
 imos
 ís
 en
+
+
+you get the idea?
+
+#Good!  
+##now memorize that shit!
+
+
+
+
+
 com*o*	com*es*	com*e*	com*emos*	com*en*
 
 
@@ -46,8 +57,4 @@ ellos/ellas /  + an
 ##for example: *i speak*  
 
 yo hablo
-hablo...hablas. habla...hablamos...you get the idea?
-
-#Good!  
-##now memorize that shit!
-
+hablo...hablas. habla...hablamos...
