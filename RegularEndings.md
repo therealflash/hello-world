@@ -1,13 +1,18 @@
 #3 types of (regular) verb endings
-###-ar verbs (like hablar)
-###-er verbs (like comer)
-###-ir verbs (like vivir)
+-ar verbs (like hablar)
 
-#regular verbs 
-are conjugated the same way everytime (irregular verbs are not, more on that later)
+-er verbs (like comer)
 
-#overview of present tense regular verb conjugations
-##to conjugate regular -ar verbs, simply drop the ending (-ar) and add one of the following:
+-ir verbs (like vivir)   
+
+
+#about regular verbs 
+- conjugated the same way everytime 
+- (irregular verbs are not, more on that later)  
+- remove the ending (ar/er/ir) and you have the "root"
+
+#present tense regular verb conjugations
+- to conjugate regular -ar verbs, simply drop the ending (-ar) and add one of the following:
 
 o
 as
