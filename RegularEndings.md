@@ -6,11 +6,8 @@
 #regular verbs 
 are conjugated the same way everytime (irregular verbs are not, more on that later)
 
-# -er verbs
-*comer* = to eat   "com"=root "er" = ending
-
-#overview 
-##As you can see, to conjugate regular -ar verbs, simply drop the ending (-ar) and add one of the following:
+#overview of present tense regular verb conjugations
+##to conjugate regular -ar verbs, simply drop the ending (-ar) and add one of the following:
 
 o
 as
@@ -35,6 +32,10 @@ imos
 ís
 en
 com*o*	com*es*	com*e*	com*emos*	com*en*
+
+
+# -er verbs
+*comer* = to eat   "com"=root "er" = ending
 
 #-ar verb endings: 
 yo-"habl (root) + o = hablo
